@@ -1,2 +1,2 @@
-# data_engineering_for_data_scientists
+# Data Engineering for Data Scientists
 Code repository for the "Data Engineering and Architecture for Data Scientists" course
